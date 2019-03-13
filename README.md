@@ -12,3 +12,11 @@
   .零件设计以及图纸（Parts and drawings）
   
    ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/drawing.png)
+   
+2.嵌入式系统设计（Design of Embedded System）
+  
+  .嵌入式硬件设计（Embedded Hardware Design）
+  
+  ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/hardware.png)
+  
+  .嵌入式软件设计（Embedded  Design）
