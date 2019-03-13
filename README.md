@@ -16,7 +16,8 @@
 2.嵌入式系统设计（Design of Embedded System）
   
   .嵌入式硬件设计（Embedded Hardware Design）
-![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/hardware.png)  
+![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/hardware.png) 
+
       .控制器MCU:  STM32F405
       .角度采集模块MCU: STM32F103
       .姿态采集模块MCU: STM32F103
