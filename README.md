@@ -17,6 +17,11 @@
   
   .嵌入式硬件设计（Embedded Hardware Design）
   
+      .控制器MCU:  STM32F405
+      .角度采集模块MCU: STM32F103
+      .姿态采集模块MCU: STM32F103
+      .角度传感器：MAXON光电编码器
+      .姿态传感器芯片： MPU6050
   ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/hardware.png)
   
   .嵌入式软件设计（Embedded  Design）
