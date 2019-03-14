@@ -38,4 +38,4 @@
   
 3.编写仿真软件（design simulation software）
   
-  
+  ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E8%B5%B0.jpg)
