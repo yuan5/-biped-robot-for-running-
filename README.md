@@ -18,6 +18,7 @@
   .传动设计（Transmission design）
   
       使用四连杆设计传动机构
+   ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E8%A7%92%E5%BA%A6%E5%8F%98%E5%8C%96%E6%9B%B2%E7%BA%BF.jpg)
       
   .零件设计以及图纸（Parts and drawings）
   
@@ -41,6 +42,6 @@
   
 3.编写仿真软件（design simulation software）
   
-    使用牛顿欧拉公式建立5连杆双足机器人动力学模型，使用MATLAB编写脚本文件，预留控制接口。
+    使用牛顿欧拉公式（Newton Euler Formula）建立5连杆双足机器人动力学模型，使用MATLAB编写脚本文件，预留控制接口。
   
   ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E8%B5%B0.jpg)
