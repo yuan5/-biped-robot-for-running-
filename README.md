@@ -33,3 +33,9 @@
 
   
   .嵌入式软件设计（Embedded  Design）
+  
+基于硬件编写实时操作系统，多个MCU芯片协调操作，信号同步使用SPI通信。后期应改为CAN总线通信。基于硬件直接跑的裸机操作系统（裸奔streaking）,设计简单运行效率高。
+  
+3.编写仿真软件（design simulation software）
+  
+  
