@@ -7,6 +7,10 @@
 ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/robot2.png)
 
 1.机械结构设计（Mechanical structure design）
+  
+    .电机（motor）：郎宇x4110s KV340II（sunnysky x4110s KV340II）
+    .电机调速器（ESC）：XRotor Pro 40A & HOBBYWING X-Rotor 20A(有钱的大佬们使用本杰明电调也是蛮不错的)
+    .电池（battery）：4s锂离子电池（4s Lipo）
 
   .传动设计（Transmission design）
   
