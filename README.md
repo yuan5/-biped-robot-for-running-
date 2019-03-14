@@ -11,6 +11,9 @@
     .电机（motor）：郎宇x4110s KV340II（sunnysky x4110s KV340II）
     .电机调速器（ESC）：3D XRotor Pro 40A & HOBBYWING X-Rotor 20A(使用本杰明电调也是蛮不错的)
     .电池（battery）：4s锂离子电池（4s Lipo）
+    .减速器（reducer）：1:27 & 1:30 行星减速器（planetary reduction gear）
+     其实是用rv减速器会很好，学习自己这几制作rv减速器：https://hackaday.io/project/157812-3d-printed-robot-actuator
+    .各种轴承，自己查本国国标（bearing）
 
   .传动设计（Transmission design）
   
