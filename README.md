@@ -46,5 +46,5 @@
   
   ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%8C%E8%B5%B0.jpg)
   
-4.上位机软件设计
+4.上位机软件设计（Data display software design）
   ![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E4%B8%8A%E4%BD%8D%E6%9C%BA.png)
