@@ -1,1 +1,1 @@
-// C++ code 
+// C code 
