@@ -18,7 +18,7 @@
   .传动设计（Transmission design）
   
       使用四连杆设计传动机构
-  < div align=center>![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E8%A7%92%E5%BA%A6%E5%8F%98%E5%8C%96%E6%9B%B2%E7%BA%BF.jpg)
+  < div align=center >![](https://github.com/yuan5/-biped-robot-for-running-/blob/master/image/%E8%A7%92%E5%BA%A6%E5%8F%98%E5%8C%96%E6%9B%B2%E7%BA%BF.jpg)
       
   .零件设计以及图纸（Parts and drawings）
   
